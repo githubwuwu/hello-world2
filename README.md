@@ -1,2 +1,3 @@
 # hello-world2
-just test2
+
+stronger every day!
